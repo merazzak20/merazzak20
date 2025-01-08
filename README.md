@@ -9,7 +9,7 @@
 
 ###
 
-<h4 align="left">Fornt-End Developer</h4>
+<h4 align="left">Front-End Developer</h4>
 
 ###
 

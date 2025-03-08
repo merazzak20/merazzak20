@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/merazzak20/merazzak20/main/github%20banner.jpg"  />
+  <img height="auto" width="100%" src="https://raw.githubusercontent.com/merazzak20/merazzak20/main/github%20banner.jpg"  />
 </div>
 
 <h1 align="left">ABDUR RAZZAK</h1>
